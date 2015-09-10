@@ -1,9 +1,6 @@
 # Vector
 
 
-// ConsoleApplication1.cpp : Defines the entry point for the console application.
-//
-
 #include "stdafx.h"
 #include "math.h"
 #include <iostream>
@@ -12,7 +9,6 @@
 #include <string.h>
 
 using namespace std;
-
 
 class Graph
 {
